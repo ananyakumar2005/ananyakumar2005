@@ -31,8 +31,9 @@
 
 ### 🚀 Featured Projects
 
-[![NyayaAI](https://github-readme-stats.vercel.app/api/pin/?username=ananyakumar2005&repo=NyayaAI&theme=tokyonight)](https://github.com/ananyakumar2005)
-[![BarterSys](https://github-readme-stats.vercel.app/api/pin/?username=ananyakumar2005&repo=BarterSys&theme=tokyonight)](https://github.com/ananyakumar2005)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ananyakumar2005&repo=ananyakumar2005%2Fbartersys&theme=ambient_gradient)](https://github.com/ananyakumar2005/bartersys)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ananyakumar2005&repo=ananyakumar2005%2Fnyayaai&theme=rose)](https://github.com/ananyakumar2005/nyayaai)
 
 ---
 
