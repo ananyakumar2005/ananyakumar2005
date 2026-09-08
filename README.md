@@ -6,8 +6,7 @@
 - 🤖 Building with **RAG pipelines, LLMs, and vector search** (BM25, BGE-M3, Qdrant)
 - ⚡ Also into **systems programming** — MPI/OpenMP/CUDA for high-performance computing
 - ☁️ AWS Certified: **Cloud Practitioner** & **AI Practitioner**
-- 📫 Reach me at: [ananyakumar2005@gmail.com](mailto:ananyakumar2005@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/ananyakumar2005)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/ananyakumar2005)
 
 ---
 
