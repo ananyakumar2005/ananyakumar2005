@@ -38,11 +38,7 @@
 
 ### 📊 GitHub Stats
 
-[![ananyakumar2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyakumar2005&show_icons=true&theme=tokyonight)](https://github.com/ananyakumar2005)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ananyakumar2005&theme=tokyonight)](https://github.com/ananyakumar2005)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyakumar2005&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ananyakumar2005&theme=tokyonight&timezone=IST)](https://git.io/streak-stats)
 
 ---
 
